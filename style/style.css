@@ -2,4 +2,7 @@ nav {
    background-color: #1790A6;
 }
 
-
+h1 {
+   text-align: center;
+   padding-top: 30px;
+}
