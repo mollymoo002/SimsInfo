@@ -1,8 +1,37 @@
 nav {
-   background-color: #1790A6;
+   background-color: #48E2EB;
 }
+
+/* Main title */
 
 h1 {
    text-align: center;
    padding-top: 30px;
 }
+
+/*  */
+
+a {
+   text-decoration: none;
+}
+
+p {
+   color: #9C8814;
+}
+
+/* Cards on home page */
+
+.card {
+   margin: 0 auto;
+}
+
+.card-text {
+   text-align: center;
+}
+
+.home-card-container {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+/*  */
